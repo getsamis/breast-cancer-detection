@@ -1,4 +1,4 @@
-# Breast Cancer Detection (`breast-cancer-detection`)
+# Breast Cancer Detection
 
 A machine learning project for classifying breast cancer tumors as **Malignant or Benign** using `scikit-learn`, orchestrated and scaled in the cloud using **AWS SageMaker**.
 
